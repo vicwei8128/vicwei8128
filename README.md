@@ -2,10 +2,11 @@
 
  - Birthday: 1993-12-18
  - Education: 國立臺中科技大學 National Taichung University of Science and Technology
- - Personal Website: https://vic8736.wixsite.com/weiportfolio
+ - Personal Website: 
+                     設計作品集 Design Portfolio： https://vic8736.wixsite.com/weiportfolio 
+                     Github： https://vicwei8128.github.io/vicwei8128/
  - Location: 新竹 
- - E-Mail: 
- - Mobile: 
+ - E-Mail: vic836@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicwei8128&show_icons=true&theme=radical)
 
