@@ -7,7 +7,8 @@
                      Github： https://vicwei8128.github.io/vicwei8128/
  - Location: 新竹 
  - E-Mail: vic836@gmail.com
-[![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugovk&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+ - 
+[![hugovk's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicwei8128&count_private=true&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicwei8128&show_icons=true&theme=radical)
 
 
