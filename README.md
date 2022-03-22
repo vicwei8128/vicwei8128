@@ -58,6 +58,10 @@
 
    ![](https://img.shields.io/badge/pygame-FFFFFF)
 
+- 路徑演算法
+
+   ![](https://img.shields.io/badge/pathfinding-FFFFFF)
+
 - 影像處理、視覺辨識
 
   ![](https://img.shields.io/badge/Opencv-FFFFFF)
