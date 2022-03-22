@@ -40,6 +40,7 @@
 
 - 語音辨識TTL、光學字元辨識OCR
 
+    ![](https://img.shields.io/badge/google--web--speech-FFFFFF)
     ![](https://img.shields.io/badge/google--cloud--vision-FFFFFF)
 
 - 網站框架
