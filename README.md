@@ -3,7 +3,7 @@
  - Birthday: 1993-12-18
  - Education: 國立臺中科技大學 National Taichung University of Science and Technology
  - Personal Website: 
-　　　　設計作品集 Design Portfolio：  
+　　　　設計作品集 Design Portfolio：   
 　　　　　　https://vic8736.wixsite.com/weiportfolio  
  - Location: 新竹 
  - E-Mail: vic836@gmail.com
